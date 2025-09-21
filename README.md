@@ -9,7 +9,7 @@
 - 🌱 Learning: **Machine Learning, Cloud (GCP/AWS), and System Design**  
 - 🎯 Goal: **Crack ML/AI Engineer role at Google / MAANG companies**  
 - 📫 Reach me: [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:pravijithzzz@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/pravijith/))  
 
 ---
 
