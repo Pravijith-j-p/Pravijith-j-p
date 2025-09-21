@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Pravijith 👋  
 
-<!--
-**Pravijith-j-p/Pravijith-j-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Aspiring **AI/ML Engineer** | Passionate about **Data Engineering, Cloud, and Scalable Systems** | Preparing for MAANG roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working on: **AI-powered projects & open-source contributions**  
+- 🌱 Learning: **Machine Learning, Cloud (GCP/AWS), and System Design**  
+- 🎯 Goal: **Crack ML/AI Engineer role at Google / MAANG companies**  
+- 📫 Reach me: [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:pravijithzzz@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pravijith-j-p&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravijith-j-p&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravijith-j-p&show_icons=true&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🏆 Achievements  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pravijith-j-p&theme=algolia&margin-w=15&margin-h=15&no-frame=true)  
+
+---
+
+## 📌 Featured Projects  
+
+🔹 [AI-Powered Code Review System](https://github.com/Pravijith-j-p/ai-code-review) – ML-based tool to review and optimize code.  
+🔹 [AspAIre](https://github.com/Pravijith-j-p/aspire) – Career guidance & AI resume builder platform.  
+🔹 [AI Finance Platform](https://github.com/Pravijith-j-p/ai-finance-platform) – Full-stack AI-powered investment & insights system.  
+
+---
+
+✨ _“Consistency beats intensity. Keep building, keep committing!”_ ✨
