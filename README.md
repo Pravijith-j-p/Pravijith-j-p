@@ -33,7 +33,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pravijith-j-p&theme=tokyonight&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravijith-j-p&layout=compact&theme=tokyonight&hide_border=true)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravijith-j-p&show_icons=true&theme=tokyonight&hide_border=true)  
 
 ### **LeetCode Stats**  
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Pravijith_J_Prakash&theme=dark)  ![LeetCode Streak](https://leetcard.jacoblin.cool/Pravijith_J_Prakash?theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Pravijith_J_Prakash&theme=dark)  
+![LeetCode Streak](https://leetcard.jacoblin.cool/Pravijith_J_Prakash?theme=dark)
 
 ---
 
