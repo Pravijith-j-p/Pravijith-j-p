@@ -1,6 +1,6 @@
 # Hi there, I'm Pravijith 👋  
 
-💡 Aspiring **AI/ML Engineer** | Passionate about **Data Engineering, Cloud, and Scalable Systems** | Preparing for MAANG roles  
+💡 Aspiring **DEVELOPER** | Passionate about **Data Engineering, Cloud, and Scalable Systems**  
 
 ---
 
